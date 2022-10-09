@@ -1,2 +1,2 @@
 # hola-mundo-python
-Creo que python puede ser divertido.
+Averiguaré si python es divertido.
